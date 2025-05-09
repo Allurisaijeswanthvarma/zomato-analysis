@@ -27,3 +27,9 @@ Count of cities and countries
 Count of Cuisines
 
 what is the average cost of two?
+### Technologies Used:
+Power BI
+
+Power Query Editor
+
+DAX (Data Analysis Expressions)
