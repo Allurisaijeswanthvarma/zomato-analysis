@@ -25,4 +25,5 @@ which are the top 5 cities by no.of restuarants?
 Count of cities and countries
 
 Count of Cuisines
+
 what is the average cost of two?
