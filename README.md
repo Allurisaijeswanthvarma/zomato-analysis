@@ -17,3 +17,9 @@ Count of restaurants by Country name (pie chart),
 Order analysis (tables and matrices).
 
 DAX Measures: Complex calculations and business logic are implemented using DAX (Data Analysis Expressions) to create insightful metrics.
+### Question KPI's:
+what are the total count of restuarants?
+which are the top 5 cities by no.of restuarants?
+Count of cities and countries
+Count of Cuisines
+what is the average cost of two?
