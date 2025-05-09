@@ -12,8 +12,8 @@ Data Modeling: A star schema data model was implemented to optimize the relation
 KPIs: Key performance indicators (KPIs) such as total sales, average order value, the number of orders, and customer retention rate are calculated and displayed.
 
 Visualizations: The dashboard includes a variety of visualizations, including:
-Sales by city and restaurant and price range by cuisines (Clustered column chart and clustered bar chart)
-Count of restaurants by Country name (pie chart)
-Order analysis (tables and matrices)
-Interactive Filters and Slicers: Users can filter and slice the data by date range, city, restaurant, and other relevant dimensions to explore specific segments.
+Sales by city and restaurant and price range by cuisines (Clustered column chart and clustered bar chart),
+Count of restaurants by Country name (pie chart),
+Order analysis (tables and matrices),
+
 DAX Measures: Complex calculations and business logic are implemented using DAX (Data Analysis Expressions) to create insightful metrics.
