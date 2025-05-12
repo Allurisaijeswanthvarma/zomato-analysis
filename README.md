@@ -51,3 +51,9 @@ MYSQL
 * Implement more advanced data analysis techniques.
 * Integrate additional data sources.
 * Create a mobile-optimized version of the dashboard.
+
+### Dashboard
+
+![Screenshot 2025-04-22 114303](https://github.com/user-attachments/assets/a9320f90-bd95-41ba-b37d-bc487d9a6909)
+![Screenshot 2025-04-22 125653](https://github.com/user-attachments/assets/8265c4b8-01a6-4c9e-9dce-65f445557434)
+![Screenshot 2025-04-22 125705](https://github.com/user-attachments/assets/94ffbc3c-8073-4464-8264-67c622a1d7cd)
