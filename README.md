@@ -35,3 +35,19 @@ Power Query Editor
 DAX (Data Analysis Expressions)
 
 MYSQL
+
+### Dataset Used:
+
+- <a href = "https://github.com/Aafiya200/Zomato-Analysis-Dashboard-Power-BI/blob/main/Zomata%20-%20Copy.xlsx" >Dataset</a>
+
+### How to Use:
+
+1. Clone the repository to your local machine.
+2. Open the Power BI file (.pbix) using Power BI Desktop.
+3. Interact with the dashboard to explore the data.
+
+### Future Enhancements:
+
+* Implement more advanced data analysis techniques.
+* Integrate additional data sources.
+* Create a mobile-optimized version of the dashboard.
