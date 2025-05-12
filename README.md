@@ -33,3 +33,5 @@ Power BI
 Power Query Editor
 
 DAX (Data Analysis Expressions)
+
+MYSQL
